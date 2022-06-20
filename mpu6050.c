@@ -58,7 +58,7 @@ int main(void)
     MYSQL_RES *res;
     MYSQL_ROW row;
     char *server = "localhost";
-    char *user = "nkhoi"; // Your name user SQL
+    char *user = "admin"; // Your name user SQL
     char *password = "1"; // Your name password SQL
     char *database = "sensor"; // Your name databse
 
